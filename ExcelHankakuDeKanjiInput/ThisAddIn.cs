@@ -18,6 +18,10 @@ using Microsoft.VisualBasic;
 
 namespace ExcelHankakuDeKanjiInput
 {
+    // Excelアドインの「発行」（インストーラ作成）の方法
+    // 参考URL：
+    // https://qiita.com/rhene/items/dd2cf0667f7ca0fd15a8
+
     public partial class ThisAddIn
     {
         //private VBIDE.VBE app;
