@@ -6,5 +6,5 @@ Holding on Hankaku-IME-mode in Excel VBA/VBE IDE screen, we input Zenkaku Kanji.
 - Excel 365
 
 # how to make installer of this project
-see below.
+see below. and thanx too much for him.
 https://qiita.com/rhene/items/dd2cf0667f7ca0fd15a8
